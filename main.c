@@ -5,6 +5,5 @@ int main()
  d++;
  d++;
  d++;
- int b;
  return 1;
 }
